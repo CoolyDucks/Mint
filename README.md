@@ -195,7 +195,7 @@ For very large files, consider reading and processing data in chunks to reduce m
 
 # License
 
-Mint Package is open source and licensed under the "BSD 3 Cloud"
+Mint Package is open source and licensed under the "BSD 3 Clause"
 
 
 
